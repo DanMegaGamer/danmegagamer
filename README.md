@@ -8,7 +8,7 @@ I'm currently a senior developer at [CoverageBook](https://coveragebook.com/), a
 
 ## 🤡 &nbsp;Side projects.
 
-I'm usually starting side projects and not finishing them, but these ones i've stuck with for a while.
+I'm usually starting side projects and not finishing them, but these ones I've stuck with for a while.
 
 ### A PDF to Image API
 
