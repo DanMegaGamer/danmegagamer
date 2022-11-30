@@ -1,16 +1,19 @@
-### Hi there 👋
+# 👋 &nbsp;Hi
 
-<!--
-**DanMegaGamer/danmegagamer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dan, a software engineer in the UK.
 
-Here are some ideas to get you started:
+## 🏭 &nbsp;Day job.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently a senior developer at [CoverageBook](https://coveragebook.com/), a public relations reporting tool.
+
+## 🤡 &nbsp;Side projects.
+
+I'm usually starting side projects and not finishing them, but these ones i've stuck with for a while.
+
+### A PDF to Image API
+
+A simple RESTful API that will accept the URL of a PDF, and then convert all or some pages to PNG.
+
+### Green Hill Zone
+
+Attempt to recreate (partially) the first zone of Sonic using [DragonRuby](https://dragonruby.org/).
